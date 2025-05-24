@@ -2,6 +2,12 @@
 
 A simple Node.js-based REST API that allows users to register, search flights, and book tickets securely using JWT authentication.
 
+# Project Overview
+
+https://github.com/user-attachments/assets/db3a09c5-d6f5-4469-a24e-10ede68a4231
+
+
+
 ## 🚀 Features
 
 - User registration with secure password hashing
